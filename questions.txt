@@ -1,0 +1,49 @@
+Question,Option A,Option B,Option C,Option D,Correct Answer
+What is the capital of France?,Berlin,Madrid,Paris,Rome,C
+Who developed the theory of relativity?,Isaac Newton,Albert Einstein,Nikola Tesla,Marie Curie,B
+What is the largest planet in our solar system?,Earth,Mars,Jupiter,Venus,C
+Which element has the chemical symbol O?,Oxygen,Gold,Iron,Nitrogen,A
+Which country is known as the Land of the Rising Sun?,China,South Korea,India,Japan,D
+Who wrote "Romeo and Juliet"?,Charles Dickens,William Shakespeare,Mark Twain,Leo Tolstoy,B
+What is the square root of 64?,6,8,10,12,B
+Who painted the Mona Lisa?,Vincent van Gogh,Leonardo da Vinci,Pablo Picasso,Claude Monet,B
+Which is the smallest prime number?,0,1,2,3,C
+What is the capital of Australia?,Sydney,Melbourne,Canberra,Perth,C
+What is the chemical formula for water?,H2O,CO2,O2,NH3,A
+What is the hardest natural substance on Earth?,Gold,Iron,Diamond,Quartz,C
+How many continents are there on Earth?,5,6,7,8,C
+Which planet is known as the Red Planet?,Earth,Mars,Jupiter,Saturn,B
+What is the boiling point of water at sea level?,90°C,100°C,110°C,120°C,B
+Who is known as the Father of Computers?,Alan Turing,Charles Babbage,John von Neumann,Steve Jobs,B
+Which gas do plants primarily use for photosynthesis?,Oxygen,Carbon Dioxide,Nitrogen,Hydrogen,B
+What is the main ingredient in guacamole?,Tomato,Cucumber,Avocado,Lettuce,C
+Which language has the most native speakers?,English,Spanish,Mandarin Hindi,C
+How many legs does a spider have?,6,8,10,12,B
+What is the largest ocean on Earth?,Atlantic,Indian,Pacific,Arctic,C
+Who was the first President of the United States?,Abraham Lincoln,George Washington,Thomas Jefferson,John Adams,B
+What is the capital of Canada?,Toronto,Vancouver,Montreal,Ottawa,D
+Which animal is known as the King of the Jungle?,Elephant,Tiger,Lion,Leopard,C
+What is 15 multiplied by 6?,75,80,85,90,D
+Which is the longest river in the world?,Amazon,Nile,Mississippi,Ganges,B
+What is the largest mammal on Earth?,Elephant,Whale,Shark,Hippopotamus,B
+Which country is famous for pizza and pasta?,France,Spain,Italy,Greece,C
+What is the speed of light?,299,792 km/s,150,000 km/s,200,000 km/s,300,000 km/s,A
+Which organ is responsible for pumping blood?,Lungs,Liver,Heart,Stomach,C
+What is the process by which plants make their food?,Digestion,Photosynthesis,Respiration,Transpiration,B
+Who discovered gravity?,Galileo,Isaac Newton,Albert Einstein,Nikola Tesla,B
+What is the freezing point of water?,0°F,0°C,-1°C,100°C,B
+What is the currency of Japan?,Dollar,Pound,Yen,Euro,C
+What does DNA stand for?,Deoxyribose Nucleic Acid,Deoxyribonucleic Acid,Dinitrogen Acid,Deoxyribose Acid,B
+What is the capital of Germany?,Berlin,Munich,Hamburg,Frankfurt,A
+Which is the largest desert in the world?,Sahara,Antarctic,Gobi,Thar,B
+Which country has the most population?,India,China,USA,Indonesia,B
+What is 100 divided by 4?,20,25,30,40,B
+Who invented the telephone?,Alexander Graham Bell,Thomas Edison,Nikola Tesla,Henry Ford,A
+What is the chemical symbol for gold?,Au,Ag,Fe,Go,A
+Which planet is closest to the sun?,Earth,Mercury,Venus,Mars,B
+What is the smallest unit of life?,Cell,Tissue,Organ,Molecule,A
+Which bird is known for its ability to mimic sounds?,Parrot,Peacock,Flamingo,Seagull,A
+What is the color of the sky on a clear day?,Blue,Green,Red,Yellow,A
+What is the main source of energy for Earth?,Wind,Water,Sun,Coal,C
+Who wrote "The Adventures of Sherlock Holmes"?,Agatha Christie,Mark Twain,Arthur Conan Doyle,Charles Dickens,C
+What is the capital of Russia?,Moscow,St. Petersburg,Kiev,Sochi,A
